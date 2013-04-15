@@ -5,55 +5,48 @@ Xft.hintstyle:          hintslight
 Xft.dpi:                96
 Xft.rgba:               rgb
 Xft.lcdfilter:          lcddefault
-
-
-
-
-URxvt.urlLauncher:      google-chrome
-
 URxvt*font:             xft:ohsnap:size=12
 URxvt*boldFont:         xft:ohsnap:size=12
-
+URxvt*saveLines:        12000
+URxvt*geometry:         98x24
+URxvt*urlLauncher:      google-chrome
+URxvt*shading:          20
+! URxvt*depth:            32
+URxvt*transparent:      false
+URxvt*borderLess:       false
+URxvt*inheritPixmap:    false
+URxvt*scrollBar:        false
+URxvt*scrollBar_right:  false
 URxvt*perl-ext-common:  default,tabbed
-URxvt.tabbed.tabbar-fg: 8
-URxvt.tabbed.tabbar-bg: 15
-URxvt.tabbed.tab-fg:    0
-URxvt.tabbed.tab-bg:    15
-
+URxvt*tabbed.tabbar-fg: 8
+URxvt*tabbed.tabbar-bg: 15
+URxvt*tabbed.tab-fg:    0
+URxvt*tabbed.tab-bg:    15
 URxvt*background:       #f9f9f9
 URxvt*foreground:       #333333
-
 URxvt*colorBD:          #585653
 URxvt*colorUL:          #6C615E
-
 ! black
 URxvt*color0:           #222222
 URxvt*color8:           #666666
-
 ! red
 URxvt*color1:           #A31604
 URxvt*color9:           #C60001
-
 ! green
 URxvt*color2:           #447241
 URxvt*color10:          #27A343
-
 ! yellow
 URxvt*color3:           #C1951A
 URxvt*color11:          #D5A30E
-
 ! blue
 URxvt*color4:           #425387
 URxvt*color12:          #4A5A8D
-
 ! magenta
 URxvt*color5:           #965D98
 URxvt*color13:          #893C8C
-
 ! cyan
 URxvt*color6:           #06989A
 URxvt*color14:          #12BCCB
-
 ! white
 URxvt*color7:           #F9F9F9
 URxvt*color15:          #DEDEDE
