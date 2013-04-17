@@ -1,7 +1,7 @@
 #!/bin/sh
 
 rpo=("https://github.com/KieranQuinn/dwm.git" "https://github.com/configs.git")
-pkg=("skype" "transmission-gtk" "rxvt-unicode" "pcmanfm" "gvfs" "gamin" "gnome-menus" "file-roller" "geany" "vlc" "feh" "lxappearance" "dmenu")
+pkg=("skype" "transmission-gtk" "rxvt-unicode" "pcmanfm" "gamin" "gvfs" "gksu" "file-roller" "geany" "vlc" "feh" "mpd" "mpc" "ncmpcpp" "lxappearance" "gtk-engine-murrine" "gtk-qt-engine" "dmenu")
 aur=("google-chrome" "ohsnap")
 
 if [ "whoami" != root ]; then
@@ -26,8 +26,7 @@ installPkgs() {
     # aur
     cd $HOME
     yaourt -G ${aur[@]}
-    for i in "${aur[@]}"
-    do
+    for i in "${aur[@]}"; do
         cd $HOME/$i && makepkg -i
         rm -r $HOME/$i
     done
