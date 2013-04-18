@@ -1,0 +1,9 @@
+dwm
+    *
+    
+post-install script
+    * 
+    
+dwm-status
+    * progress bar function
+        * cpu/mem/volume/etc.
