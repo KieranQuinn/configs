@@ -1,0 +1,396 @@
+info_begin
+format: 1
+mpd_version: 0.17.3
+fs_charset: UTF-8
+tag: Artist
+tag: ArtistSort
+tag: Album
+tag: AlbumArtist
+tag: AlbumArtistSort
+tag: Title
+tag: Track
+tag: Name
+tag: Genre
+tag: Date
+tag: Composer
+tag: Performer
+tag: Disc
+tag: MUSICBRAINZ_ARTISTID
+tag: MUSICBRAINZ_ALBUMID
+tag: MUSICBRAINZ_ALBUMARTISTID
+tag: MUSICBRAINZ_TRACKID
+info_end
+directory: Returners
+mtime: 1366157701
+begin: Returners
+song_begin: 01 Walk Away From The World.m4a
+Time: 88
+Title: Walk Away From The World
+Artist: The Ghost Inside
+Album: Returners
+Genre: Hardcore
+Track: 1
+Date: 2010
+AlbumArtist: The Ghost Inside
+mtime: 1366157694
+song_end
+song_begin: 02 Greater Distance.m4a
+Time: 147
+Title: Greater Distance
+Artist: The Ghost Inside
+Album: Returners
+Genre: Hardcore
+Track: 2
+Date: 2010
+AlbumArtist: The Ghost Inside
+mtime: 1366157695
+song_end
+song_begin: 03 Between The Lines.m4a
+Time: 203
+Title: Between The Lines
+Artist: The Ghost Inside
+Album: Returners
+Genre: Hardcore
+Track: 3
+Date: 2010
+AlbumArtist: The Ghost Inside
+mtime: 1366157696
+song_end
+song_begin: 04 Unspoken.m4a
+Time: 223
+Title: Unspoken
+Artist: The Ghost Inside
+Album: Returners
+Genre: Hardcore
+Track: 4
+Date: 2010
+AlbumArtist: The Ghost Inside
+mtime: 1366157695
+song_end
+song_begin: 05 Overlooked.m4a
+Time: 186
+Title: Overlooked
+Artist: The Ghost Inside
+Album: Returners
+Genre: Hardcore
+Track: 5
+Date: 2010
+AlbumArtist: The Ghost Inside
+mtime: 1366157697
+song_end
+song_begin: 06 Chrono.m4a
+Time: 212
+Title: Chrono
+Artist: The Ghost Inside
+Album: Returners
+Genre: Hardcore
+Track: 6
+Date: 2010
+AlbumArtist: The Ghost Inside
+mtime: 1366157696
+song_end
+song_begin: 07 The Conflict.m4a
+Time: 241
+Title: The Conflict
+Artist: The Ghost Inside
+Album: Returners
+Genre: Hardcore
+Track: 7
+Date: 2010
+AlbumArtist: The Ghost Inside
+mtime: 1366157696
+song_end
+song_begin: 08 Downbeat.m4a
+Time: 195
+Title: Downbeat
+Artist: The Ghost Inside
+Album: Returners
+Genre: Hardcore
+Track: 8
+Date: 2010
+AlbumArtist: The Ghost Inside
+mtime: 1366157699
+song_end
+song_begin: 09 The Returner.m4a
+Time: 67
+Title: The Returner
+Artist: The Ghost Inside
+Album: Returners
+Genre: Hardcore
+Track: 9
+Date: 2010
+AlbumArtist: The Ghost Inside
+mtime: 1366157696
+song_end
+song_begin: 10 Through The Cracks.m4a
+Time: 193
+Title: Through The Cracks
+Artist: The Ghost Inside
+Album: Returners
+Genre: Hardcore
+Track: 10
+Date: 2010
+AlbumArtist: The Ghost Inside
+mtime: 1366157693
+song_end
+song_begin: 11 Truth And Temper.m4a
+Time: 529
+Title: Truth And Temper
+Artist: The Ghost Inside
+Album: Returners
+Genre: Hardcore
+Track: 11
+Date: 2010
+AlbumArtist: The Ghost Inside
+mtime: 1366157701
+song_end
+end: Returners
+directory: The Ghost Inside - Fury And The Fallen Ones
+mtime: 1366157734
+begin: The Ghost Inside - Fury And The Fallen Ones
+song_begin: The Ghost Inside - 01 - Provoke.mp3
+Time: 152
+Artist: The Ghost Inside
+Title: Provoke
+Album: Fury And The Fallen Ones
+Track: 1
+Date: 2008-04-15
+Genre: Hardcore
+mtime: 1366157734
+song_end
+song_begin: The Ghost Inside - 02 - Destined.mp3
+Time: 142
+Artist: The Ghost Inside
+Title: Destined
+Album: Fury And The Fallen Ones
+Track: 2
+Date: 2008-04-15
+Genre: Hardcore
+mtime: 1366157724
+song_end
+song_begin: The Ghost Inside - 03 - Faith Or Forgiveness.mp3
+Time: 170
+Artist: The Ghost Inside
+Title: Faith Or Forgiveness
+Album: Fury And The Fallen Ones
+Track: 3
+Date: 2008-04-15
+Genre: Hardcore
+mtime: 1366157695
+song_end
+song_begin: The Ghost Inside - 04 - Disintegrator.mp3
+Time: 186
+Artist: The Ghost Inside
+Title: Disintegrator
+Album: Fury And The Fallen Ones
+Track: 4
+Date: 2008-04-15
+Genre: Hardcore
+mtime: 1366157724
+song_end
+song_begin: The Ghost Inside - 05 - The Brave.mp3
+Time: 227
+Artist: The Ghost Inside
+Title: The Brave
+Album: Fury And The Fallen Ones
+Track: 5
+Date: 2008-04-15
+Genre: Hardcore
+mtime: 1366157724
+song_end
+song_begin: The Ghost Inside - 06 - Siren Song.mp3
+Time: 175
+Artist: The Ghost Inside
+Title: Siren Song
+Album: Fury And The Fallen Ones
+Track: 6
+Date: 2008-04-15
+Genre: Hardcore
+mtime: 1366157723
+song_end
+song_begin: The Ghost Inside - 07 - Shiner.mp3
+Time: 217
+Artist: The Ghost Inside
+Title: Shiner
+Album: Fury And The Fallen Ones
+Track: 7
+Date: 2008-04-15
+Genre: Hardcore
+mtime: 1366157723
+song_end
+song_begin: The Ghost Inside - 08 - Revolutionary (Bang The Drum).mp3
+Time: 193
+Artist: The Ghost Inside
+Title: Revolutionary (Bang The Drum)
+Album: Fury And The Fallen Ones
+Track: 8
+Date: 2008-04-15
+Genre: Hardcore
+mtime: 1366157722
+song_end
+song_begin: The Ghost Inside - 09 - Inherent Youth.mp3
+Time: 171
+Artist: The Ghost Inside
+Title: Inherent Youth
+Album: Fury And The Fallen Ones
+Track: 9
+Date: 2008-04-15
+Genre: Hardcore
+mtime: 1366157723
+song_end
+song_begin: The Ghost Inside - 10 - Smoke And Signal Fires.mp3
+Time: 139
+Artist: The Ghost Inside
+Title: Smoke And Signal Fires
+Album: Fury And The Fallen Ones
+Track: 10
+Date: 2008-04-15
+Genre: Hardcore
+mtime: 1366157725
+song_end
+song_begin: The Ghost Inside - 11 - The Lion War.mp3
+Time: 142
+Artist: The Ghost Inside
+Title: The Lion War
+Album: Fury And The Fallen Ones
+Track: 11
+Date: 2008-04-15
+Genre: Hardcore
+mtime: 1366157725
+song_end
+song_begin: The Ghost Inside - 12 - Blue And Gold.mp3
+Time: 194
+Artist: The Ghost Inside
+Title: Blue And Gold
+Album: Fury And The Fallen Ones
+Track: 12
+Date: 2008-04-15
+Genre: Hardcore
+mtime: 1366157725
+song_end
+end: The Ghost Inside - Fury And The Fallen Ones
+directory: The Ghost Inside - Get What You Give (2012)
+mtime: 1366157597
+begin: The Ghost Inside - Get What You Give (2012)
+song_begin: 01 This Is What I Know About Sacrifice.mp3
+Time: 89
+Artist: The Ghost Inside
+Title: This Is What I Know About Sacrifice
+Album: Get What You Give
+Track: 1/11
+Date: 2012
+Genre: Alternative
+Disc: 1/1
+mtime: 1366157597
+song_end
+song_begin: 02 Outlive.mp3
+Time: 156
+Artist: The Ghost Inside
+Title: Outlive
+Album: Get What You Give
+Track: 2/11
+Date: 2012
+Genre: Alternative
+Disc: 1/1
+mtime: 1366157596
+song_end
+song_begin: 03 Engine 45.mp3
+Time: 252
+Artist: The Ghost Inside
+Title: Engine 45
+Album: Get What You Give
+Track: 3/11
+Date: 2012
+Genre: Alternative
+Disc: 1/1
+mtime: 1366157597
+song_end
+song_begin: 04 Slipping Away.mp3
+Time: 194
+Artist: The Ghost Inside
+Title: Slipping Away
+Album: Get What You Give
+Track: 4/11
+Date: 2012
+Genre: Alternative
+Disc: 1/1
+mtime: 1366157596
+song_end
+song_begin: 05 The Great Unknown.mp3
+Time: 191
+Artist: The Ghost Inside
+Title: The Great Unknown
+Album: Get What You Give
+Track: 5/11
+Date: 2012
+Genre: Alternative
+Disc: 1/1
+mtime: 1366157595
+song_end
+song_begin: 06 Dark Horse.mp3
+Time: 201
+Artist: The Ghost Inside
+Title: Dark Horse
+Album: Get What You Give
+Track: 6/11
+Date: 2012
+Genre: Alternative
+Disc: 1/1
+mtime: 1366157596
+song_end
+song_begin: 07 White Light.mp3
+Time: 291
+Artist: The Ghost Inside
+Title: White Light
+Album: Get What You Give
+Track: 7/11
+Date: 2012
+Genre: Alternative
+Disc: 1/1
+mtime: 1366157594
+song_end
+song_begin: 08 Thirty Three.mp3
+Time: 187
+Artist: The Ghost Inside
+Title: Thirty Three
+Album: Get What You Give
+Track: 8/11
+Date: 2012
+Genre: Alternative
+Disc: 1/1
+mtime: 1366157594
+song_end
+song_begin: 09 Face Value.mp3
+Time: 231
+Artist: The Ghost Inside
+Title: Face Value
+Album: Get What You Give
+Track: 9/11
+Date: 2012
+Genre: Alternative
+Disc: 1/1
+mtime: 1366157596
+song_end
+song_begin: 10 Deceiver.mp3
+Time: 187
+Artist: The Ghost Inside
+Title: Deceiver
+Album: Get What You Give
+Track: 10/11
+Date: 2012
+Genre: Alternative
+Disc: 1/1
+mtime: 1366157596
+song_end
+song_begin: 11 Test The Limits.mp3
+Time: 258
+Artist: The Ghost Inside
+Title: Test The Limits
+Album: Get What You Give
+Track: 11/11
+Date: 2012
+Genre: Alternative
+Disc: 1/1
+mtime: 1366157596
+song_end
+end: The Ghost Inside - Get What You Give (2012)
