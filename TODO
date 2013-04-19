@@ -1,5 +1,5 @@
 dwm
-    *
+    * 
     
 post-install script
     * package list file
@@ -14,3 +14,4 @@ other
     * update script
         * run on startup
         * check for orphans etc.
+    * ncmpcpp theme

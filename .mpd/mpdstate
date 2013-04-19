@@ -1,8 +1,8 @@
 sw_volume: 98
 audio_device_state:1:alsa sound device
 state: play
-current: 21
-time: 472
+current: 49
+time: 159
 random: 0
 repeat: 0
 single: 0
@@ -45,4 +45,38 @@ playlist_begin
 31:The Ghost Inside - Fury And The Fallen Ones/The Ghost Inside - 10 - Smoke And Signal Fires.mp3
 32:The Ghost Inside - Fury And The Fallen Ones/The Ghost Inside - 11 - The Lion War.mp3
 33:The Ghost Inside - Fury And The Fallen Ones/The Ghost Inside - 12 - Blue And Gold.mp3
+34:The Ghost Inside - Fury And The Fallen Ones/The Ghost Inside - 01 - Provoke.mp3
+35:The Ghost Inside - Fury And The Fallen Ones/The Ghost Inside - 02 - Destined.mp3
+36:The Ghost Inside - Fury And The Fallen Ones/The Ghost Inside - 03 - Faith Or Forgiveness.mp3
+37:The Ghost Inside - Fury And The Fallen Ones/The Ghost Inside - 04 - Disintegrator.mp3
+38:The Ghost Inside - Fury And The Fallen Ones/The Ghost Inside - 05 - The Brave.mp3
+39:The Ghost Inside - Fury And The Fallen Ones/The Ghost Inside - 06 - Siren Song.mp3
+40:The Ghost Inside - Fury And The Fallen Ones/The Ghost Inside - 07 - Shiner.mp3
+41:The Ghost Inside - Fury And The Fallen Ones/The Ghost Inside - 08 - Revolutionary (Bang The Drum).mp3
+42:The Ghost Inside - Fury And The Fallen Ones/The Ghost Inside - 09 - Inherent Youth.mp3
+43:The Ghost Inside - Fury And The Fallen Ones/The Ghost Inside - 10 - Smoke And Signal Fires.mp3
+44:The Ghost Inside - Fury And The Fallen Ones/The Ghost Inside - 11 - The Lion War.mp3
+45:The Ghost Inside - Fury And The Fallen Ones/The Ghost Inside - 12 - Blue And Gold.mp3
+46:Returners/01 Walk Away From The World.m4a
+47:Returners/02 Greater Distance.m4a
+48:Returners/03 Between The Lines.m4a
+49:Returners/04 Unspoken.m4a
+50:Returners/05 Overlooked.m4a
+51:Returners/06 Chrono.m4a
+52:Returners/07 The Conflict.m4a
+53:Returners/08 Downbeat.m4a
+54:Returners/09 The Returner.m4a
+55:Returners/10 Through The Cracks.m4a
+56:Returners/11 Truth And Temper.m4a
+57:The Ghost Inside - Get What You Give (2012)/01 This Is What I Know About Sacrifice.mp3
+58:The Ghost Inside - Get What You Give (2012)/02 Outlive.mp3
+59:The Ghost Inside - Get What You Give (2012)/03 Engine 45.mp3
+60:The Ghost Inside - Get What You Give (2012)/04 Slipping Away.mp3
+61:The Ghost Inside - Get What You Give (2012)/05 The Great Unknown.mp3
+62:The Ghost Inside - Get What You Give (2012)/06 Dark Horse.mp3
+63:The Ghost Inside - Get What You Give (2012)/07 White Light.mp3
+64:The Ghost Inside - Get What You Give (2012)/08 Thirty Three.mp3
+65:The Ghost Inside - Get What You Give (2012)/09 Face Value.mp3
+66:The Ghost Inside - Get What You Give (2012)/10 Deceiver.mp3
+67:The Ghost Inside - Get What You Give (2012)/11 Test The Limits.mp3
 playlist_end
