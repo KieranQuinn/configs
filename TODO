@@ -4,14 +4,7 @@ dwm
 post-install script
     * package list file
         * install from pkglist dump
-    
-dwm-status
-    * progress bar function
-        * cpu/mem/volume/etc.
-    * package updates
 
-other
-    * update script
-        * run on startup
-        * check for orphans etc.
-    * ncmpcpp theme
+update script
+    * run on startup
+    * check for orphans etc.
